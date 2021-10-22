@@ -1,0 +1,22 @@
+# CPNT201-A4
+COMMITS.md
+
+#Mac
+.DS_Store
+.Spotlight-V100
+.Trashes
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# vi
+*~
+
+# vscode
+.vscode
+
+# General
+log/
+*.log
+
